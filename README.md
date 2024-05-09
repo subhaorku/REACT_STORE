@@ -1,7 +1,29 @@
-# The_React_Store
-I have built an e-commerce app named 'My REACT STORE' which has Add to Cart and Add Product features embedded in it.
-If we click on 'Add to Cart' button then the product will get added to my Cart and in Cart we will have info about the product added to cart (which includes image of the product and name of the product),we can increase/decrease the Quantity of any added product in Cart.There is a checkout button as well which will basically close the Cart Module. 
-We can even add our products in the 'REACT_STORE' by entering the product name and click on the button 'Add Product'.
-If we click on 'Add to Cart' button then the product will get added to my Cart and in Cart we will have info about the product added to cart (which includes image of the product and name of the product),we can increase/decrease the Quantity of any added product in Cart and when Quantity value decreases to 0 by clicking on minus Quantity button then that item gets deleted from the Cart.Eventually, when all items get deleted from the Cart then an empty-Cart Modal shows up with a Close Button.There is a CheckOut button as well which shows up when there is atleast one item in the Cart and CheckOut Button  will basically close the Cart Module. 
-We can even add our products in the 'REACT_STORE' by clicking on the button 'Add Product' and then we have to enter the product name. Our Custom product can also be added to the Cart and has the features as other products.
-I have deployed the REACT_APP which is accessible via this link: https://the-react-store-subhaorkus-projects.vercel.app , the-react-store-git-main-subhaorkus-projects.vercel.app , the-react-store-52rsoo9an-subhaorkus-projects.vercel.app .
+##My React Store
+Welcome to My React Store, an e-commerce web application built with React. This app allows users to browse through a variety of products, add them to their cart, and manage their shopping experience seamlessly.
+
+##Features
+#Add to Cart
+Click the "Add to Cart" button to add a product to your shopping cart.
+The product's image and name will be displayed in the cart.
+Easily increase or decrease the quantity of any added product.
+When the quantity of an item reaches 0, it is automatically removed from the cart.
+#Cart Management
+View all your added products in the cart module.
+Adjust the quantity of each product as desired.
+Automatically removes items from the cart when the quantity reaches 0.
+Checkout button available to close the cart module and proceed to checkout.
+#Product Management
+Add new products to the store by clicking the "Add Product" button.
+Simply enter the name of the product to add it to the store.
+Custom products can also be added to the cart, offering a personalized shopping experience.
+#Checkout
+Close the cart module and proceed to checkout by clicking the Checkout button.
+The Checkout button is only visible when there is at least one item in the cart.
+Provides a seamless transition from shopping to the checkout process.
+#Deployment
+The My React Store app is deployed and accessible via the following links:
+
+Vercel: the-react-store-subhaorkus-projects.vercel.app
+Vercel: the-react-store-git-main-subhaorkus-projects.vercel.app
+Vercel: the-react-store-52rsoo9an-subhaorkus-projects.vercel.app
+Feel free to explore and enjoy a seamless shopping experience at My React Store!
