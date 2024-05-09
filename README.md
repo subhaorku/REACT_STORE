@@ -1,7 +1,7 @@
-# My_React_Store
+## My_React_Store
 Welcome to My React Store, an e-commerce web application built with React. This app allows users to browse through a variety of products, add them to their cart, and manage their shopping experience seamlessly.
 
-# Features
+## Features
 # Add_to_Cart
 Click the "Add to Cart" button to add a product to your shopping cart.
 The product's image and name will be displayed in the cart.
@@ -23,13 +23,9 @@ Provides a seamless transition from shopping to the checkout process.
 # Deployment
 The My React Store app is deployed and accessible via the following links:
 
-## Deployment
-
-The My React Store app is deployed and accessible via the following links:
-
 - [Vercel: the-react-store-subhaorkus-projects.vercel.app](https://the-react-store-subhaorkus-projects.vercel.app)
 - [Vercel: the-react-store-git-main-subhaorkus-projects.vercel.app](https://the-react-store-git-main-subhaorkus-projects.vercel.app)
 - [Vercel: the-react-store-52rsoo9an-subhaorkus-projects.vercel.app](https://the-react-store-52rsoo9an-subhaorkus-projects.vercel.app)
 
 Feel free to explore and enjoy a seamless shopping experience at My React Store!
-``
+
