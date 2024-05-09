@@ -23,7 +23,7 @@ Provides a seamless transition from shopping to the checkout process.
 # Deployment
 The My React Store app is deployed and accessible via the following links:
 
-Vercel: the-react-store-subhaorkus-projects.vercel.app
+Vercel: https://the-react-store-subhaorkus-projects.vercel.app/
 Vercel: the-react-store-git-main-subhaorkus-projects.vercel.app
 Vercel: the-react-store-52rsoo9an-subhaorkus-projects.vercel.app
 
