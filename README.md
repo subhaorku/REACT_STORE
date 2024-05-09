@@ -3,8 +3,8 @@ Welcome to My React Store, an e-commerce web application built with React. This 
 
 ## Features
 ### Add_to_Cart
-Click the "Add to Cart" button to add a product to your shopping cart.
-The product's image and name will be displayed in the cart modal.
+-Click the "Add to Cart" button to add a product to your shopping cart.
+- The product's image and name will be displayed in the cart modal.
 Easily increase or decrease the quantity of any added product.
 When the quantity of an item reaches 0, it is automatically removed from the cart.
 When all the items are removed from the Cart then an 'empty' Cart Modal shows up.
