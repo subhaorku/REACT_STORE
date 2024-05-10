@@ -1,4 +1,4 @@
-# My_React_Store
+# React_Store
 Welcome to My React Store, an e-commerce web application built with React. This app allows users to browse through a variety of products, add them to their cart, and manage their shopping experience seamlessly.
 
 ## Features
