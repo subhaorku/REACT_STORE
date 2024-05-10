@@ -1,3 +1,4 @@
+import React from 'react';
 import "./App.css";
 import { useState } from "react";
 import Header from "./Components/Header/Header";
@@ -126,7 +127,7 @@ function App() {
   }
 
   return (
-    <div>
+    <React.Fragment> 
       <Header
         openCart={openCart}
         openAddProductSection={openAddProductSection}
@@ -144,7 +145,7 @@ function App() {
         closeAddProductSection={closeAddProductSection}
         onAddProduct={handleAddProduct}
       />
-    </div>
+    </React.Fragment>
   );
 }
 export default App;
